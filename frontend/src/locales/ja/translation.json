@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "pricing": "料金"
+  },
+  "footer": {
+    "tagline": "無料のElevenLabs代替",
+    "terms": "利用規約",
+    "privacy": "プライバシー"
+  },
+  "hero": {
+    "title": "AI テキスト読み上げ",
+    "subtitle": "テキストを自然な音声に即座に変換。最高の無料ElevenLabs代替。",
+    "badge1": "無料で利用",
+    "badge2": "登録不要",
+    "badge3": "6種類の声"
+  },
+  "generator": {
+    "title": "音声を生成",
+    "tokensLeft": "本日残り {{count}} 回",
+    "noTokens": "本日の回数を使い切りました",
+    "textLabel": "テキストを入力",
+    "placeholder": "変換するテキストを入力または貼り付け...",
+    "voiceLabel": "声",
+    "speedLabel": "速度",
+    "generate": "音声を生成",
+    "generating": "生成中...",
+    "download": "MP3をダウンロード"
+  },
+  "features": {
+    "title": "Voice Genを選ぶ理由",
+    "fast": {
+      "title": "超高速",
+      "desc": "数秒で音声を生成。"
+    },
+    "multilingual": {
+      "title": "多言語対応",
+      "desc": "複数の言語とアクセントに対応。"
+    },
+    "free": {
+      "title": "無料で始める",
+      "desc": "毎日10回無料。クレジットカード不要。"
+    },
+    "voices": {
+      "title": "6種類のユニークな声",
+      "desc": "多様な声のスタイルから選択。"
+    }
+  },
+  "comparison": {
+    "title": "Voice Gen vs ElevenLabs",
+    "feature": "機能",
+    "freeUsage": "無料利用",
+    "noSignup": "登録不要",
+    "speedControl": "速度調整",
+    "price": "開始価格"
+  },
+  "pricing": {
+    "title": "シンプルで透明な料金",
+    "subtitle": "ニーズに合ったプランを選択。隠れた料金なし。",
+    "popular": "人気",
+    "checkoutError": "チェックアウトに失敗しました。再試行してください。",
+    "faqTitle": "よくある質問",
+    "faq1": {
+      "q": "いつでもキャンセルできますか？",
+      "a": "はい！いつでもサブスクリプションをキャンセルできます。"
+    },
+    "faq2": {
+      "q": "どの支払い方法に対応していますか？",
+      "a": "主要なクレジットカードとPayPalに対応しています。"
+    }
+  },
+  "payment": {
+    "loading": "お支払いを確認中...",
+    "noCheckoutId": "無効な支払いセッションです。",
+    "fetchError": "支払いの確認に失敗しました。サポートにお問い合わせください。",
+    "errorTitle": "問題が発生しました",
+    "backHome": "ホームに戻る",
+    "successTitle": "お支払い完了！",
+    "successDesc": "ご購入ありがとうございます。トークンが追加されました。",
+    "startUsing": "生成を開始"
+  },
+  "error": {
+    "emptyText": "変換するテキストを入力してください。",
+    "textTooLong": "テキストは5000文字以下にしてください。",
+    "unknown": "問題が発生しました。再試行してください。"
+  }
+}

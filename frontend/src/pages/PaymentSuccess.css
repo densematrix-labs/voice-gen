@@ -1,0 +1,57 @@
+.payment-success {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xl) 0;
+}
+
+.success-card {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: var(--spacing-xl);
+}
+
+.success-card .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  margin: 0 auto var(--spacing-md);
+  font-size: 2.5rem;
+  background: var(--bg-secondary);
+  border-radius: 50%;
+}
+
+.success-card .icon.success {
+  background: rgba(0, 212, 255, 0.1);
+  color: var(--neon-cyan);
+}
+
+.success-card.error .icon {
+  background: rgba(255, 45, 146, 0.1);
+}
+
+.success-card h2 {
+  margin-bottom: var(--spacing-sm);
+}
+
+.success-card p {
+  margin-bottom: var(--spacing-lg);
+}
+
+.loading-spinner {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto var(--spacing-md);
+  border: 3px solid var(--bg-tertiary);
+  border-top-color: var(--neon-purple);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

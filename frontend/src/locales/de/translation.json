@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "pricing": "Preise"
+  },
+  "footer": {
+    "tagline": "Kostenlose ElevenLabs Alternative",
+    "terms": "AGB",
+    "privacy": "Datenschutz"
+  },
+  "hero": {
+    "title": "KI Text-zu-Sprache",
+    "subtitle": "Text sofort in natürliche Sprache umwandeln. Die beste kostenlose ElevenLabs Alternative.",
+    "badge1": "Kostenlos",
+    "badge2": "Keine Anmeldung",
+    "badge3": "6 Stimmen"
+  },
+  "generator": {
+    "title": "Sprache generieren",
+    "tokensLeft": "{{count}} Generierungen heute übrig",
+    "noTokens": "Keine Tokens mehr",
+    "textLabel": "Text eingeben",
+    "placeholder": "Text hier eingeben oder einfügen...",
+    "voiceLabel": "Stimme",
+    "speedLabel": "Geschwindigkeit",
+    "generate": "Sprache generieren",
+    "generating": "Wird generiert...",
+    "download": "MP3 herunterladen"
+  },
+  "features": {
+    "title": "Warum Voice Gen?",
+    "fast": {
+      "title": "Blitzschnell",
+      "desc": "Sprache in Sekunden generieren."
+    },
+    "multilingual": {
+      "title": "Mehrsprachig",
+      "desc": "Unterstützung für mehrere Sprachen."
+    },
+    "free": {
+      "title": "Kostenlos starten",
+      "desc": "10 kostenlose Generierungen pro Tag."
+    },
+    "voices": {
+      "title": "6 Einzigartige Stimmen",
+      "desc": "Wählen Sie aus verschiedenen Stimmstilen."
+    }
+  },
+  "comparison": {
+    "title": "Voice Gen vs ElevenLabs",
+    "feature": "Funktion",
+    "freeUsage": "Kostenlose Nutzung",
+    "noSignup": "Keine Anmeldung erforderlich",
+    "speedControl": "Geschwindigkeitskontrolle",
+    "price": "Startpreis"
+  },
+  "pricing": {
+    "title": "Einfache, transparente Preise",
+    "subtitle": "Wählen Sie den Plan, der zu Ihnen passt. Keine versteckten Gebühren.",
+    "popular": "Beliebteste",
+    "checkoutError": "Checkout fehlgeschlagen. Bitte erneut versuchen.",
+    "faqTitle": "Häufig gestellte Fragen",
+    "faq1": {
+      "q": "Kann ich jederzeit kündigen?",
+      "a": "Ja! Sie können Ihr Abonnement jederzeit kündigen."
+    },
+    "faq2": {
+      "q": "Welche Zahlungsmethoden akzeptieren Sie?",
+      "a": "Wir akzeptieren alle gängigen Kreditkarten und PayPal."
+    }
+  },
+  "payment": {
+    "loading": "Zahlung wird überprüft...",
+    "noCheckoutId": "Ungültige Zahlungssitzung.",
+    "fetchError": "Zahlung konnte nicht überprüft werden.",
+    "errorTitle": "Etwas ist schiefgelaufen",
+    "backHome": "Zurück zur Startseite",
+    "successTitle": "Zahlung erfolgreich!",
+    "successDesc": "Vielen Dank für Ihren Kauf. Ihre Tokens wurden hinzugefügt.",
+    "startUsing": "Jetzt starten"
+  },
+  "error": {
+    "emptyText": "Bitte Text zum Konvertieren eingeben.",
+    "textTooLong": "Text muss unter 5000 Zeichen sein.",
+    "unknown": "Etwas ist schiefgelaufen. Bitte erneut versuchen."
+  }
+}

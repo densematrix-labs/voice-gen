@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "首页",
+    "pricing": "定价"
+  },
+  "footer": {
+    "tagline": "免费的 ElevenLabs 替代品",
+    "terms": "服务条款",
+    "privacy": "隐私政策"
+  },
+  "hero": {
+    "title": "AI 文字转语音",
+    "subtitle": "即时将文字转换为自然语音。最佳免费 ElevenLabs 替代方案。",
+    "badge1": "免费使用",
+    "badge2": "无需注册",
+    "badge3": "6种声音"
+  },
+  "generator": {
+    "title": "生成语音",
+    "tokensLeft": "今日剩余 {{count}} 次",
+    "noTokens": "今日次数已用完",
+    "textLabel": "输入文字",
+    "placeholder": "在此输入或粘贴要转换的文字...",
+    "voiceLabel": "声音",
+    "speedLabel": "语速",
+    "generate": "生成语音",
+    "generating": "生成中...",
+    "download": "下载 MP3"
+  },
+  "features": {
+    "title": "为什么选择 Voice Gen？",
+    "fast": {
+      "title": "极速生成",
+      "desc": "几秒内生成语音，无需等待。"
+    },
+    "multilingual": {
+      "title": "多语言支持",
+      "desc": "支持多种语言和口音。"
+    },
+    "free": {
+      "title": "免费开始",
+      "desc": "每天10次免费生成，无需信用卡。"
+    },
+    "voices": {
+      "title": "6种独特声音",
+      "desc": "选择多样化的声音风格。"
+    }
+  },
+  "comparison": {
+    "title": "Voice Gen vs ElevenLabs",
+    "feature": "功能",
+    "freeUsage": "免费额度",
+    "noSignup": "无需注册",
+    "speedControl": "语速控制",
+    "price": "起步价"
+  },
+  "pricing": {
+    "title": "简单透明的定价",
+    "subtitle": "选择适合您的方案，无隐藏费用。",
+    "popular": "最受欢迎",
+    "checkoutError": "创建支付失败，请重试。",
+    "faqTitle": "常见问题",
+    "faq1": {
+      "q": "可以随时取消吗？",
+      "a": "可以！您可以随时取消订阅，无需任何理由。"
+    },
+    "faq2": {
+      "q": "支持哪些支付方式？",
+      "a": "我们通过安全的支付合作伙伴支持所有主流信用卡和 PayPal。"
+    }
+  },
+  "payment": {
+    "loading": "正在验证您的支付...",
+    "noCheckoutId": "无效的支付会话。",
+    "fetchError": "验证支付失败，请联系客服。",
+    "errorTitle": "出了点问题",
+    "backHome": "返回首页",
+    "successTitle": "支付成功！",
+    "successDesc": "感谢您的购买，您的额度已添加。",
+    "startUsing": "开始生成"
+  },
+  "error": {
+    "emptyText": "请输入要转换的文字。",
+    "textTooLong": "文字必须少于5000字符。",
+    "unknown": "出了点问题，请重试。"
+  }
+}

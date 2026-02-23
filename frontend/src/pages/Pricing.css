@@ -1,0 +1,136 @@
+.pricing {
+  padding: var(--spacing-lg) 0;
+}
+
+.pricing-header {
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.pricing-header h1 {
+  margin-bottom: var(--spacing-sm);
+}
+
+.pricing-header p {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Pricing grid */
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--spacing-lg);
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Pricing card */
+.pricing-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: var(--spacing-lg);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.pricing-card.highlight {
+  border-color: var(--neon-purple);
+  box-shadow: var(--shadow-neon);
+  transform: scale(1.02);
+}
+
+.pricing-card:hover {
+  transform: translateY(-5px);
+}
+
+.pricing-card.highlight:hover {
+  transform: scale(1.02) translateY(-5px);
+}
+
+.popular-badge {
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: var(--spacing-xs) var(--spacing-md);
+  background: var(--gradient-primary);
+  border-radius: var(--radius-full);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: white;
+}
+
+.plan-name {
+  font-family: 'Sora', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: var(--spacing-sm);
+  color: var(--text-primary);
+}
+
+.plan-price {
+  margin-bottom: var(--spacing-md);
+}
+
+.price-amount {
+  font-family: 'Space Mono', monospace;
+  font-size: 3rem;
+  font-weight: 700;
+  background: var(--gradient-primary);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.price-period {
+  color: var(--text-muted);
+  font-size: 1rem;
+}
+
+.plan-features {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 var(--spacing-lg);
+  text-align: left;
+  flex-grow: 1;
+}
+
+.plan-features li {
+  padding: var(--spacing-xs) 0;
+  color: var(--text-secondary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.plan-features li:last-child {
+  border-bottom: none;
+}
+
+/* FAQ */
+.pricing-faq {
+  text-align: center;
+}
+
+.pricing-faq h2 {
+  margin-bottom: var(--spacing-lg);
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.faq-item {
+  text-align: left;
+}
+
+.faq-item h4 {
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.faq-item p {
+  margin: 0;
+  font-size: 0.9rem;
+}

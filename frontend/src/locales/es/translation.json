@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "pricing": "Precios"
+  },
+  "footer": {
+    "tagline": "Alternativa gratuita a ElevenLabs",
+    "terms": "Términos",
+    "privacy": "Privacidad"
+  },
+  "hero": {
+    "title": "IA Texto a Voz",
+    "subtitle": "Convierte texto en voz natural al instante. La mejor alternativa gratuita a ElevenLabs.",
+    "badge1": "Uso gratuito",
+    "badge2": "Sin registro",
+    "badge3": "6 voces"
+  },
+  "generator": {
+    "title": "Generar Voz",
+    "tokensLeft": "{{count}} generaciones restantes hoy",
+    "noTokens": "Sin tokens restantes",
+    "textLabel": "Ingresa tu texto",
+    "placeholder": "Escribe o pega texto aquí para convertir...",
+    "voiceLabel": "Voz",
+    "speedLabel": "Velocidad",
+    "generate": "Generar Voz",
+    "generating": "Generando...",
+    "download": "Descargar MP3"
+  },
+  "features": {
+    "title": "¿Por qué Voice Gen?",
+    "fast": {
+      "title": "Súper rápido",
+      "desc": "Genera voz en segundos."
+    },
+    "multilingual": {
+      "title": "Multilingüe",
+      "desc": "Soporte para múltiples idiomas."
+    },
+    "free": {
+      "title": "Gratis para empezar",
+      "desc": "10 generaciones gratis al día."
+    },
+    "voices": {
+      "title": "6 Voces únicas",
+      "desc": "Elige entre diversos estilos de voz."
+    }
+  },
+  "comparison": {
+    "title": "Voice Gen vs ElevenLabs",
+    "feature": "Característica",
+    "freeUsage": "Uso gratuito",
+    "noSignup": "Sin registro",
+    "speedControl": "Control de velocidad",
+    "price": "Precio inicial"
+  },
+  "pricing": {
+    "title": "Precios simples y transparentes",
+    "subtitle": "Elige el plan que se adapte a ti. Sin cargos ocultos.",
+    "popular": "Más popular",
+    "checkoutError": "Error al crear el pago. Intenta de nuevo.",
+    "faqTitle": "Preguntas frecuentes",
+    "faq1": {
+      "q": "¿Puedo cancelar en cualquier momento?",
+      "a": "¡Sí! Puedes cancelar tu suscripción cuando quieras."
+    },
+    "faq2": {
+      "q": "¿Qué métodos de pago aceptan?",
+      "a": "Aceptamos todas las tarjetas de crédito principales y PayPal."
+    }
+  },
+  "payment": {
+    "loading": "Verificando tu pago...",
+    "noCheckoutId": "Sesión de pago inválida.",
+    "fetchError": "Error al verificar el pago. Contacta soporte.",
+    "errorTitle": "Algo salió mal",
+    "backHome": "Volver al inicio",
+    "successTitle": "¡Pago exitoso!",
+    "successDesc": "Gracias por tu compra. Tus tokens han sido añadidos.",
+    "startUsing": "Empezar a generar"
+  },
+  "error": {
+    "emptyText": "Por favor ingresa texto para convertir.",
+    "textTooLong": "El texto debe tener menos de 5000 caracteres.",
+    "unknown": "Algo salió mal. Intenta de nuevo."
+  }
+}

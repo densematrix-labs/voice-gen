@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "pricing": "Tarifs"
+  },
+  "footer": {
+    "tagline": "Alternative gratuite à ElevenLabs",
+    "terms": "Conditions",
+    "privacy": "Confidentialité"
+  },
+  "hero": {
+    "title": "IA Texte en Voix",
+    "subtitle": "Convertissez le texte en voix naturelle instantanément. La meilleure alternative gratuite à ElevenLabs.",
+    "badge1": "Gratuit",
+    "badge2": "Sans inscription",
+    "badge3": "6 voix"
+  },
+  "generator": {
+    "title": "Générer la voix",
+    "tokensLeft": "{{count}} générations restantes aujourd'hui",
+    "noTokens": "Plus de jetons",
+    "textLabel": "Entrez votre texte",
+    "placeholder": "Tapez ou collez le texte ici...",
+    "voiceLabel": "Voix",
+    "speedLabel": "Vitesse",
+    "generate": "Générer la voix",
+    "generating": "Génération...",
+    "download": "Télécharger MP3"
+  },
+  "features": {
+    "title": "Pourquoi Voice Gen?",
+    "fast": {
+      "title": "Ultra rapide",
+      "desc": "Générez la voix en quelques secondes."
+    },
+    "multilingual": {
+      "title": "Multilingue",
+      "desc": "Support de plusieurs langues et accents."
+    },
+    "free": {
+      "title": "Gratuit pour commencer",
+      "desc": "10 générations gratuites par jour."
+    },
+    "voices": {
+      "title": "6 Voix uniques",
+      "desc": "Choisissez parmi différents styles de voix."
+    }
+  },
+  "comparison": {
+    "title": "Voice Gen vs ElevenLabs",
+    "feature": "Fonctionnalité",
+    "freeUsage": "Utilisation gratuite",
+    "noSignup": "Sans inscription",
+    "speedControl": "Contrôle de la vitesse",
+    "price": "Prix de départ"
+  },
+  "pricing": {
+    "title": "Tarification simple et transparente",
+    "subtitle": "Choisissez le plan qui vous convient. Pas de frais cachés.",
+    "popular": "Le plus populaire",
+    "checkoutError": "Échec du paiement. Veuillez réessayer.",
+    "faqTitle": "Questions fréquentes",
+    "faq1": {
+      "q": "Puis-je annuler à tout moment?",
+      "a": "Oui! Vous pouvez annuler votre abonnement à tout moment."
+    },
+    "faq2": {
+      "q": "Quels modes de paiement acceptez-vous?",
+      "a": "Nous acceptons toutes les principales cartes de crédit et PayPal."
+    }
+  },
+  "payment": {
+    "loading": "Vérification du paiement...",
+    "noCheckoutId": "Session de paiement invalide.",
+    "fetchError": "Impossible de vérifier le paiement.",
+    "errorTitle": "Une erreur s'est produite",
+    "backHome": "Retour à l'accueil",
+    "successTitle": "Paiement réussi!",
+    "successDesc": "Merci pour votre achat. Vos jetons ont été ajoutés.",
+    "startUsing": "Commencer à générer"
+  },
+  "error": {
+    "emptyText": "Veuillez entrer du texte à convertir.",
+    "textTooLong": "Le texte doit contenir moins de 5000 caractères.",
+    "unknown": "Une erreur s'est produite. Veuillez réessayer."
+  }
+}

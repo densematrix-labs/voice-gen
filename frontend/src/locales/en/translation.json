@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing"
+  },
+  "footer": {
+    "tagline": "Free ElevenLabs Alternative",
+    "terms": "Terms",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "title": "AI Text to Speech",
+    "subtitle": "Convert text to natural voice audio instantly. The best free ElevenLabs alternative.",
+    "badge1": "Free to use",
+    "badge2": "No signup",
+    "badge3": "6 voices"
+  },
+  "generator": {
+    "title": "Generate Speech",
+    "tokensLeft": "{{count}} generations left today",
+    "noTokens": "No tokens left",
+    "textLabel": "Enter your text",
+    "placeholder": "Type or paste text here to convert to speech...",
+    "voiceLabel": "Voice",
+    "speedLabel": "Speed",
+    "generate": "Generate Speech",
+    "generating": "Generating...",
+    "download": "Download MP3"
+  },
+  "features": {
+    "title": "Why Voice Gen?",
+    "fast": {
+      "title": "Lightning Fast",
+      "desc": "Generate speech in seconds, not minutes."
+    },
+    "multilingual": {
+      "title": "Multilingual",
+      "desc": "Support for multiple languages and accents."
+    },
+    "free": {
+      "title": "Free to Start",
+      "desc": "10 free generations per day. No credit card."
+    },
+    "voices": {
+      "title": "6 Unique Voices",
+      "desc": "Choose from diverse voice styles."
+    }
+  },
+  "comparison": {
+    "title": "Voice Gen vs ElevenLabs",
+    "feature": "Feature",
+    "freeUsage": "Free Usage",
+    "noSignup": "No Signup Required",
+    "speedControl": "Speed Control",
+    "price": "Starting Price"
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that fits your needs. No hidden fees.",
+    "popular": "Most Popular",
+    "checkoutError": "Failed to create checkout. Please try again.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1": {
+      "q": "Can I cancel anytime?",
+      "a": "Yes! You can cancel your subscription at any time. No questions asked."
+    },
+    "faq2": {
+      "q": "What payment methods do you accept?",
+      "a": "We accept all major credit cards and PayPal through our secure payment partner."
+    }
+  },
+  "payment": {
+    "loading": "Verifying your payment...",
+    "noCheckoutId": "Invalid payment session.",
+    "fetchError": "Failed to verify payment. Please contact support.",
+    "errorTitle": "Something went wrong",
+    "backHome": "Back to Home",
+    "successTitle": "Payment Successful!",
+    "successDesc": "Thank you for your purchase. Your tokens have been added.",
+    "startUsing": "Start Generating"
+  },
+  "error": {
+    "emptyText": "Please enter some text to convert.",
+    "textTooLong": "Text must be under 5000 characters.",
+    "unknown": "Something went wrong. Please try again."
+  }
+}
